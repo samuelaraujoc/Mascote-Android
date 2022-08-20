@@ -1,4 +1,4 @@
-# História do Mascote do Android - Pagina 
+# História do Mascote do Android - Pagina. 
 
 
 ![Android](imagens/RADME.gif)
